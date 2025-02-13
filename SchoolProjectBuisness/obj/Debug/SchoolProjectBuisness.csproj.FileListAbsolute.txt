@@ -1,0 +1,13 @@
+D:\c#\SchoolProjectBuisness\bin\Debug\SchoolProjectBuisness.exe.config
+D:\c#\SchoolProjectBuisness\bin\Debug\SchoolProjectBuisness.exe
+D:\c#\SchoolProjectBuisness\bin\Debug\SchoolProjectBuisness.pdb
+D:\c#\SchoolProjectBuisness\bin\Debug\SchoolProjectDataAccess.exe
+D:\c#\SchoolProjectBuisness\bin\Debug\SchoolProjectDataAccess.pdb
+D:\c#\SchoolProjectBuisness\bin\Debug\SchoolProjectDataAccess.exe.config
+D:\c#\SchoolProjectBuisness\obj\Debug\SchoolProjectBuisness.csproj.AssemblyReference.cache
+D:\c#\SchoolProjectBuisness\obj\Debug\SchoolProjectBuisness.Properties.Resources.resources
+D:\c#\SchoolProjectBuisness\obj\Debug\SchoolProjectBuisness.csproj.GenerateResource.cache
+D:\c#\SchoolProjectBuisness\obj\Debug\SchoolProjectBuisness.csproj.CoreCompileInputs.cache
+D:\c#\SchoolProjectBuisness\obj\Debug\SchoolPr.A135790E.Up2Date
+D:\c#\SchoolProjectBuisness\obj\Debug\SchoolProjectBuisness.exe
+D:\c#\SchoolProjectBuisness\obj\Debug\SchoolProjectBuisness.pdb
