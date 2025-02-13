@@ -1,0 +1,9 @@
+D:\c#\SchoolProjectDataAccess\bin\Debug\SchoolProjectDataAccess.exe.config
+D:\c#\SchoolProjectDataAccess\bin\Debug\SchoolProjectDataAccess.exe
+D:\c#\SchoolProjectDataAccess\bin\Debug\SchoolProjectDataAccess.pdb
+D:\c#\SchoolProjectDataAccess\obj\Debug\SchoolProjectDataAccess.csproj.AssemblyReference.cache
+D:\c#\SchoolProjectDataAccess\obj\Debug\SchoolProjectDataAccess.Properties.Resources.resources
+D:\c#\SchoolProjectDataAccess\obj\Debug\SchoolProjectDataAccess.csproj.GenerateResource.cache
+D:\c#\SchoolProjectDataAccess\obj\Debug\SchoolProjectDataAccess.csproj.CoreCompileInputs.cache
+D:\c#\SchoolProjectDataAccess\obj\Debug\SchoolProjectDataAccess.exe
+D:\c#\SchoolProjectDataAccess\obj\Debug\SchoolProjectDataAccess.pdb
